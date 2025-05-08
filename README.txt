@@ -1,6 +1,6 @@
-# RetroTink 4K profiles for MiSTer using DV1
+# RetroTink 4K profiles for MiSTer using DV1 (Direct Video)
 
-If you are using the RetroTink 4K scaler, we have included some pre-configured profiles to get you started. These are optimized for use with MiSTer, but can also be used with emulation software and real hardware, although they won't auto-switch to the correct profile like they do with MiSTer's DV1 signalling — you will have to manually load them in the RT4K Profile menu.
+If you are using the RetroTink 4K scaler, here are some pre-configured profiles to get you started. These are optimized for use with MiSTer, but can also be used with emulation software and real hardware, although they won't auto-switch to the correct profile like they do with MiSTer's DV1 signalling — you will have to manually load them in the RT4K Profile menu.
 
 ## Installation
 
