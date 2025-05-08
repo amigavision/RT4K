@@ -30,3 +30,9 @@ If you are using any other device, navigate to the Profiles menu, and load them 
 If the image from a given game does not go all the way to the edges, hit the `AUX1` button on the controller. Especially on the Amiga, the offsets vary wildly, so one default setting can't serve every game. 
 
 We are looking into whether we can signal this directly from the Amiga core on a per-game basis, like we currently do with the 5×PAL scaling we do on MiSTer, but this is not implemented yet — so, use that AUX1 button once you are inside the game to make use of all your lovely 4K pixels!
+
+## Arcade Core Settings
+
+Once you have decided on what is your preferred CRT emulation setting, we recommend using [this script to generate settings files for all the arcade cores](https://github.com/Matt-Retrogamer/mister-rt4k-dv1-profiles-generator).
+
+That way, you don't have to set them all up manually. We chose not to include all of those in this script for now, since you need to decide what you want as your baseline and then apply the script. But if you think we should, [give us feedback on BlueSky](https://bsky.app/profile/amiga.vision).
